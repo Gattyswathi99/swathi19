@@ -1,5 +1,16 @@
 # swathi19
+
 1) developa program linear transformation on a image
+
+
+
+
+
+
+
+
+
+
 
 import cv2
 image = cv2.imread('1.jpg')
